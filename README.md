@@ -1,11 +1,11 @@
-# TurtleCoin-Blockchain-Explorer
+# CryGCoin-Blockchain-Explorer
 Block explorer for TurtleCoin CryptoNote based cryptocurrency.
 
 #### Installation
 
-1) It takes data from daemon turtlecoind. It should be accessible from the Internet. Run turtlecoind with open port as follows:
+1) It takes data from daemon crygcoind. It should be accessible from the Internet. Run crygcoind with open port as follows:
 ```bash
-./TurtleCoind --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=11898
+./CryGCoin --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=17898
 ```
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon.
 
