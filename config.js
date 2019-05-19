@@ -11,6 +11,8 @@ var networkStat = {
  "cryg": [
 	["pool.cryg.xyz", "http://pool.cryg.xyz:8117"],
 	["94.199.76.165", "http://94.199.76.165:8117"],
+        ["coinsforhash.com", "https://coinsforhash.tk:8120"],
+
  ]
 };
 
